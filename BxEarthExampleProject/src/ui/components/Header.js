@@ -9,7 +9,7 @@ const Header = ({clickedItems}) => {
       style={{
         width: dimensions.width * 0.95,
         height: dimensions.height * 0.1,
-        backgroundColor: 'yellow',
+        backgroundColor: 'gray',
         justifyContent: 'center',
         marginBottom: 10,
         borderRadius: 5,
